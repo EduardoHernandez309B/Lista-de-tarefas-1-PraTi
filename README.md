@@ -26,6 +26,7 @@ npm install
 
 ### 4. Execute um exercício
 
+"Os arquivos dos exercícios estão organizados na pasta exercicios/, nomeados como index1.js, index2.js, etc."
 ```bash
 node exercicios/index1.js
 ```
