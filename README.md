@@ -27,13 +27,13 @@ npm install
 ### 4. Execute um exercício
 
 ```bash
-node exercicios/nome-do-exercicio.js
+node exercicios/index1.js
 ```
 
 ### Por exemplo:
 
 ```bash
-node exercicios/exercicio1.js
+node exercicios/index1.js
 ```
 
 ---
